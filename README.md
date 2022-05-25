@@ -1,5 +1,9 @@
-# Driveruin_PrivacyPolicy
-Privacy Policies for the game Driveruin
+# Driveruin Privacy Policy
 
-AdMob
-This app will collect, share, and/or use data collected via AdMob's services. For more information about Admob's Privacy Policty, please refer to [this link](http://www.google.com/policies/privacy/partners/)
+<h1><b>AdMob</b></h1>
+
+This app will collect, share, and/or use data collected via AdMob's services. For more information about Admob's Privacy Policy, please refer to [this link](http://www.google.com/policies/privacy/partners/).
+
+<h1><b>Feedback</b></h1>
+
+This app will also collect feedback from user and will only be sent at user's discretion. This app will not ask for any sensitive information and user will have full control over which information to send.

@@ -7,3 +7,5 @@ This app will collect, share, and/or use data collected via AdMob's services. Fo
 <h1><b>Feedback</b></h1>
 
 This app will also collect feedback from user and will only be sent at user's discretion. This app will not ask for any sensitive information and user will have full control over which information to send.
+
+The data collected by this app will only be used to improve on the app and user experience. The data will not be shared to any Third Party.
